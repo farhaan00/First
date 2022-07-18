@@ -1,0 +1,4 @@
+first1:
+  filters: cssrewrite
+  output: base/%(version)s_first1.css
+  contents: first1.css

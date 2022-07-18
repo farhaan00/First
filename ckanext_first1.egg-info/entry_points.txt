@@ -1,0 +1,7 @@
+
+        [ckan.plugins]
+        first1=ckanext.first1.plugin:First1Plugin
+
+        [babel.extractors]
+        ckan = ckan.lib.extract:extract_ckan
+    
